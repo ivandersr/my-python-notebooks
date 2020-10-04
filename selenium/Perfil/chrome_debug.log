@@ -1,0 +1,4 @@
+[4512:8748:1004/104439.875:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "username"): (More info: https://goo.gl/9p2vKq) %o", source: https://github.com/ (0)
+[4512:8748:1004/104439.875:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "username"): (More info: https://goo.gl/9p2vKq) %o", source: https://github.com/ (0)
+[4512:8748:1004/104448.048:ERROR:device_event_log_impl.cc(208)] [10:44:48.048] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[4512:8748:1004/104506.717:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
