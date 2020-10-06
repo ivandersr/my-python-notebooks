@@ -45,6 +45,3 @@ for linha in range(1, 11):
     planilha2.cell(linha, 3).value = round(uniform(0, 50), 2)
 
 planilha.save('nova_planilha.xlsx')
-
-
-
