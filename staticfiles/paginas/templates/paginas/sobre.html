@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block 'titulo' %}Sobre{% endblock %}
+{% block 'conteudo' %}
+    <h1>Sobre</h1>
+    <div>
+        <img src="{% static 'img/a.jpg' %}" style="width:640px; height:auto" />
+    </div>
+{% endblock %}
